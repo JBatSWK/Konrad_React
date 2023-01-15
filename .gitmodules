@@ -1,0 +1,3 @@
+[submodule "src/React_Template"]
+	path = src/React_Template
+	url = git@github.com:JBatSWK/React_Template.git
